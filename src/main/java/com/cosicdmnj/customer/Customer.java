@@ -4,7 +4,7 @@ import jakarta.persistence.*;
 
 @Entity
 public class Customer {
-    // TODO: Next video number 70
+    // TODO: Next video number 90
     @Id
     @SequenceGenerator(
             name = "customer_id_sequence",
